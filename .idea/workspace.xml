@@ -1,12 +1,347 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9683256-9e22-4773-b72b-ee63531d74ab" name="Default Changelist" comment="Third Home work.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3/BalanceOfRandomNumberFrom0To10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3/FormulaTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3/OutPutDigitsFrom0To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3/OutPutFirstThreeElementsFrom0To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3/OutPutLastThreeDigitsFrom100To200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWork_3/OutpPutDigitsFrom1To100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/Lesson3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Lesson3.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork_3/FormulaTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HomeWork_3/BalanceOfRandomNumberFrom0To10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="practice-1" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutPutDigitsFrom1to100.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutPutDigitsFrom0to100.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutPutFirstFirstThreeElements.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutPutFirstThreeElements.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutPutLastThreeDigitsFrom100To200.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutPutFirstThreeElementsFrom0To100.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutpPutDigitsFrom1To100.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/OutPutDigitsFrom0To100.java" />
+        <option value="$PROJECT_DIR$/src/lesson3/Lesson3.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_2/BalanceOfRandomNumberFrom0To10.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_3/BalanceOfRandomNumberFrom0To10.java" />
+        <option value="$PROJECT_DIR$/src/HomeWork_3/FormulaTask.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="745" />
     <option name="y" value="25" />
     <option name="width" value="1090" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lits Java Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lits Java Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lits Java Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lits Java Base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lits Java Base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lits Java Base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../AppData/Local/Android/Sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FormulaTask">
+    <configuration name="BalanceOfRandomNumberFrom0To10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_3.BalanceOfRandomNumberFrom0To10" />
+      <module name="Lits Java Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormulaTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_3.FormulaTask" />
+      <module name="Lits Java Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutPutFirstThreeElementsFrom0To100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_3.OutPutFirstThreeElementsFrom0To100" />
+      <module name="Lits Java Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutPutLastThreeDigitsFrom100To200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_3.OutPutLastThreeDigitsFrom100To200" />
+      <module name="Lits Java Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OutpPutDigitsFrom1To100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork_3.OutpPutDigitsFrom1To100" />
+      <module name="Lits Java Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FormulaTask" />
+        <item itemvalue="Application.BalanceOfRandomNumberFrom0To10" />
+        <item itemvalue="Application.OutPutLastThreeDigitsFrom100To200" />
+        <item itemvalue="Application.OutPutFirstThreeElementsFrom0To100" />
+        <item itemvalue="Application.OutpPutDigitsFrom1To100" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9683256-9e22-4773-b72b-ee63531d74ab" name="Default Changelist" comment="" />
+      <created>1570120410559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570120410559</updated>
+    </task>
+    <task id="LOCAL-00001" summary="practice">
+      <created>1570120940733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570120940733</updated>
+    </task>
+    <task id="LOCAL-00002" summary="practice on new branch">
+      <created>1570121918806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570121918806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26500732" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2942899" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.329429" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice" />
+    <MESSAGE value="practice on new branch" />
+    <MESSAGE value="Third Home work." />
+    <option name="LAST_COMMIT_MESSAGE" value="Third Home work." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork_3/OutPutFirstThreeElementsFrom0To100.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lesson3/Lesson3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.4/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="1052" column="26" selection-start-line="1052" selection-start-column="26" selection-end-line="1052" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork_3/OutPutDigitsFrom0To100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork_3/OutpPutDigitsFrom1To100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork_3/OutPutFirstThreeElementsFrom0To100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork_3/OutPutLastThreeDigitsFrom100To200.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork_3/BalanceOfRandomNumberFrom0To10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HomeWork_3/FormulaTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

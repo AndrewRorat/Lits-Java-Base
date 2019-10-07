@@ -8,7 +8,7 @@ public class Lesson3 {
 //            System.out.println(ch);
 //        }
         var digit = 100;
-        for (var i =1; i<=100; i++){
+        for (var i = 1; i <= 100; i++) {
             digit--;
             System.out.println(digit);
         }
