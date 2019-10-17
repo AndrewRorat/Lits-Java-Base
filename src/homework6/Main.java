@@ -8,6 +8,5 @@ public class Main {
         Calculator calculator = new Calculator(operation);
 
         calculator.doOperation(3, 2);
-
     }
 }

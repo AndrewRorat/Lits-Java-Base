@@ -1,6 +1,6 @@
 package homework6;
 
-public class Multiplication implements  Operation {
+public class Multiplication implements Operation {
     private double c;
 
     @Override

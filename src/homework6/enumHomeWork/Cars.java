@@ -34,27 +34,27 @@ public enum Cars {
         return code;
     }
 
-    public static Cars findById(int id){
+    public static Cars findById(int id) {
         for (Cars i : values()) {
             if (i.getId() == id) {
-                return i;
-            }
-        }
-        throw new  IllegalArgumentException();
-    }
-
-    public static Cars findByCountry(String country){
-        for (Cars i: values()) {
-            if (i.getCountry() == country){
                 return i;
             }
         }
         throw new IllegalArgumentException();
     }
 
-    public static Cars finndByCode(String code){
-        for (Cars i: values()) {
-            if (i.getCode() == code){
+    public static Cars findByCountry(String country) {
+        for (Cars i : values()) {
+            if (i.getCountry() == country) {
+                return i;
+            }
+        }
+        throw new IllegalArgumentException();
+    }
+
+    public static Cars finndByCode(String code) {
+        for (Cars i : values()) {
+            if (i.getCode() == code) {
                 return i;
             }
         }
