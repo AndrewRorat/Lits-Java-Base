@@ -10,6 +10,6 @@ public class Main {
 
         CharArray charArray = new CharArray(20);
 
-        charArray.inputSymbolAndCheckIt(50, 8, '5');
+        charArray.inputSymbolAndCheckIt('5', 8, '5');
     }
 }

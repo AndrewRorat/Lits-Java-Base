@@ -10,10 +10,10 @@ public class CharArray extends Array {
         super(elements);
     }
 
-    public void inputSymbolAndCheckIt(int elements, int index, int valueOfIndex) {
-        inputIntoArray(elements);
+    public void inputSymbolAndCheckIt(char elements, int index, char valueOfIndex) {
+        char[] array = new char[elements];
         array[index] = valueOfIndex;
-        for (int i = 0; i < array.length; i++) {
+        for (char i = 0; i < array.length; i++) {
             if (i == index) {
             }
             if (array[i] == valueOfIndex) {
