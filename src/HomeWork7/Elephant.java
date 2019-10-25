@@ -8,12 +8,16 @@ public class Elephant implements IAnimal {
         this.food = food;
     }
 
-    @Override
     public void eat() throws FoodException {
         if (food.equals(Food.GREEN)) {
             System.out.println("I like nuts");
         } else {
             throw new FoodException("Wrong type of food");
         }
+    }
+
+    @Override
+    public void said(IVoice voice) {
+        voice.voice();
     }
 }

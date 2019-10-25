@@ -19,12 +19,5 @@ public class Main {
         zoo.open();
         zoo.dinner();
 
-
-
-
-
-//        Worker worker = new Worker();
-//        worker.setAnimal(e);
     }
-
 }
