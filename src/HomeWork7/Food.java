@@ -13,5 +13,4 @@ public enum Food {
     public String getKindOfFood() {
         return kindOfFood;
     }
-
 }

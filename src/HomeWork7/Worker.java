@@ -1,6 +1,6 @@
 package HomeWork7;
 
-public class Worker{
+public class Worker {
 
     private String worker;
     private IAnimal animal;
@@ -25,6 +25,5 @@ public class Worker{
         } catch (FoodException e) {
             e.printStackTrace();
         }
-
     }
 }
