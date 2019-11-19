@@ -45,13 +45,6 @@ public class Employee implements Comparable<Employee> {
         return Objects.hash(name, age);
     }
 
-    @Override
-    public String toString() {
-        return "Employee{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                '}';
-    }
 
     @Override
     public int compareTo(Employee o) {

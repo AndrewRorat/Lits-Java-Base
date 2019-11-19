@@ -2,35 +2,23 @@ package homeWork15;
 
 public class Recruiter extends Employee {
 
-    private String name;
-    private Integer age;
+    private String workWith;
 
-    public Recruiter(String name, Integer age) {
+    public Recruiter(String name, Integer age, String workWith) {
         super(name, age);
+        this.workWith = workWith;
     }
 
     public Recruiter() {
 
     }
 
-    @Override
-    public String getName() {
-        return super.getName();
+    public String getWorkWith() {
+        return workWith;
     }
 
-    @Override
-    public void setName(String name) {
-        super.setName(name);
-    }
-
-    @Override
-    public Integer getAge() {
-        return super.getAge();
-    }
-
-    @Override
-    public void setAge(Integer age) {
-        super.setAge(age);
+    public void setWorkWith(String workWith) {
+        this.workWith = workWith;
     }
 
     @Override
@@ -45,7 +33,10 @@ public class Recruiter extends Employee {
 
     @Override
     public String toString() {
-        return super.toString();
+        return "Recruiter{" + "Name '" + getName() + '\'' +
+                " Age " + getAge() + '\'' +
+                "workWith='" + workWith + '\'' +
+                '}';
     }
 
     @Override
@@ -56,5 +47,6 @@ public class Recruiter extends Employee {
     @Override
     public void showEmployee() {
         super.showEmployee();
+        System.out.println(getWorkWith());
     }
 }

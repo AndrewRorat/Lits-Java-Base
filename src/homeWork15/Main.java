@@ -4,17 +4,17 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        Employee developer1 = new Developer("Jon", 25);
-        Employee developer2 = new Developer("Vova", 45);
-        Employee developer3 = new Developer("Andrew", 20);
-        Employee developer4 = new Developer("Maks", 22);
-        Employee developer5 = new Developer("Taras", 19);
+        Employee developer1 = new Developer("Jon", 25, "java");
+        Employee developer2 = new Developer("Vova", 45, "c++");
+        Employee developer3 = new Developer("Andrew", 20, "kotlin");
+        Employee developer4 = new Developer("Maks", 22, "java");
+        Employee developer5 = new Developer("Taras", 19, "java");
 
-        Employee recruiter1 = new Recruiter("Anna", 26);
-        Employee recruiter2 = new Recruiter("Anna", 26);
-        Employee recruiter3 = new Recruiter("Nina", 22);
-        Employee recruiter4 = new Recruiter("Natalia", 21);
-        Employee recruiter5 = new Recruiter("Andriana", 23);
+        Employee recruiter1 = new Recruiter("Anna", 26, "IT people");
+        Employee recruiter2 = new Recruiter("Anna", 26, "people");
+        Employee recruiter3 = new Recruiter("Nina", 22, "people");
+        Employee recruiter4 = new Recruiter("Natalia", 21, "people");
+        Employee recruiter5 = new Recruiter("Andriana", 23, "people");
 
         /*
         HashSet
@@ -80,13 +80,12 @@ public class Main {
 
         class Creator {
             public void main(String[] args) {
-
+                Scanner scanner = new Scanner(System.in);
 
                 String input;
                 var developers = new ArrayList<Employee>();
                 var recruiters = new ArrayList<Employee>();
 
-                Scanner scanner = new Scanner(System.in);
 
                 do {
                     System.out.println("1. Create new developer employee");
@@ -97,21 +96,25 @@ public class Main {
                     input = (scanner.nextLine());
 
                     if (input.equals("1")) {
-                        Employee developer1 = new Developer();
+                        Developer developerCreator = new Developer();
                         developers.add(developer1);
                         System.out.println("Enter name");
-                        developer1.setName(scanner.nextLine());
+                        developerCreator.setName(scanner.nextLine());
                         System.out.println("Enter age");
-                        developer1.setAge(Integer.parseInt(scanner.nextLine()));
-                        developer1.showEmployee();
+                        developerCreator.setAge(Integer.parseInt(scanner.nextLine()));
+                        System.out.println("Enter programing language");
+                        developerCreator.setPrograming(scanner.nextLine());
+                        developerCreator.showEmployee();
                     } else if (input.equals("2")) {
-                        Employee recruiter1 = new Recruiter();
+                        Recruiter recruiterCreator = new Recruiter();
                         recruiters.add(recruiter1);
                         System.out.println("Enter name");
-                        recruiter1.setName(scanner.nextLine());
+                        recruiterCreator.setName(scanner.nextLine());
                         System.out.println("Enter age");
-                        recruiter1.setAge(Integer.parseInt(scanner.nextLine()));
-                        recruiter1.showEmployee();
+                        recruiterCreator.setAge(Integer.parseInt(scanner.nextLine()));
+                        System.out.println("Enter working with");
+                        recruiterCreator.setWorkWith(scanner.nextLine());
+                        recruiterCreator.showEmployee();
                     }
                 } while (!input.equals("3"));
             }

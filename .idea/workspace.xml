@@ -11,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/out/production/Lits Java Base/homeWork5/IntegerArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lits Java Base/homeWork5/IntegerArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork_4/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork_4/Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork12/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork12/Bottle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork15/Creator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork15/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork15/Developer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork15/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork15/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork15/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork15/Main.java" afterDir="false" />
@@ -36,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/homeWork15/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+            <state relative-caret-position="195">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="e#319#320#0" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
@@ -47,10 +46,6 @@
                 <element signature="e#475#476#0" expanded="true" />
                 <element signature="e#514#515#0" expanded="true" />
                 <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#961#962#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,27 +54,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/homeWork15/Developer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="29" />
+            <state relative-caret-position="176">
+              <caret line="35" column="35" selection-start-line="34" selection-start-column="26" selection-end-line="35" selection-end-column="35" />
               <folding>
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#937#938#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+                <element signature="e#831#832#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,29 +71,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/homeWork15/Recruiter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="29" />
+            <state relative-caret-position="170">
+              <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
               <folding>
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#479#480#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#736#737#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#860#861#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
-                <element signature="e#976#977#0" expanded="true" />
-                <element signature="e#1012#1013#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -119,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/homeWork15/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-130">
-              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+            <state relative-caret-position="170">
+              <caret line="74" column="45" lean-forward="true" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -193,11 +160,11 @@
         <option value="$PROJECT_DIR$/src/homeWork15/firstTask/Employee.java" />
         <option value="$PROJECT_DIR$/src/homeWork15/firstTask/Main.java" />
         <option value="$PROJECT_DIR$/src/homeWork15/IEmployee.java" />
-        <option value="$PROJECT_DIR$/src/homeWork15/Employee.java" />
-        <option value="$PROJECT_DIR$/src/homeWork15/Recruiter.java" />
-        <option value="$PROJECT_DIR$/src/homeWork15/Developer.java" />
         <option value="$PROJECT_DIR$/src/homeWork15/Creator.java" />
         <option value="$PROJECT_DIR$/src/homeWork15/Main.java" />
+        <option value="$PROJECT_DIR$/src/homeWork15/Employee.java" />
+        <option value="$PROJECT_DIR$/src/homeWork15/Developer.java" />
+        <option value="$PROJECT_DIR$/src/homeWork15/Recruiter.java" />
       </list>
     </option>
   </component>
@@ -262,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Creator">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Creator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homeWork15.Creator" />
       <module name="Lits Java Base" />
@@ -330,8 +297,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Creator" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Creator" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
@@ -461,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574160658497</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Delete unnecessary class &quot;Creator&quot;, and create new class &quot;Employee&quot;.">
+      <created>1574163189954</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1574163189954</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -475,8 +449,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23489933" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -485,7 +460,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39385065" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -547,7 +522,8 @@
     <MESSAGE value="14-th home work." />
     <MESSAGE value="15-th home work." />
     <MESSAGE value="15-th equals fixed." />
-    <option name="LAST_COMMIT_MESSAGE" value="15-th equals fixed." />
+    <MESSAGE value="Delete unnecessary class &quot;Creator&quot;, and create new class &quot;Employee&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete unnecessary class &quot;Creator&quot;, and create new class &quot;Employee&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -910,17 +886,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/homeWork15/IEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/homeWork15/IEmployee.java" />
+    <entry file="file://$PROJECT_DIR$/src/homeWork15/Creator.java" />
     <entry file="file://$PROJECT_DIR$/src/homeWork15/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="63" column="5" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+        <state relative-caret-position="195">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
             <element signature="e#319#320#0" expanded="true" />
             <element signature="e#346#347#0" expanded="true" />
@@ -930,84 +901,42 @@
             <element signature="e#475#476#0" expanded="true" />
             <element signature="e#514#515#0" expanded="true" />
             <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/homeWork15/Developer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="29" />
+        <state relative-caret-position="176">
+          <caret line="35" column="35" selection-start-line="34" selection-start-column="26" selection-end-line="35" selection-end-column="35" />
           <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/homeWork15/Recruiter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="29" />
+        <state relative-caret-position="170">
+          <caret line="36" column="35" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
           <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#516#517#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1012#1013#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/homeWork15/Creator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="5" selection-end-line="41" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/homeWork15/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-130">
-          <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+        <state relative-caret-position="170">
+          <caret line="74" column="45" lean-forward="true" selection-start-line="74" selection-start-column="45" selection-end-line="74" selection-end-column="45" />
         </state>
       </provider>
     </entry>
