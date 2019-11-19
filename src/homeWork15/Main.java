@@ -13,7 +13,7 @@ public class Main {
         Employee developer5 = new Developer("Taras", 19);
 
         Employee recruiter1 = new Recruiter("Anna", 26);
-        Employee recruiter2 = new Recruiter("Michel", 29);
+        Employee recruiter2 = new Recruiter("Anna", 26);
         Employee recruiter3 = new Recruiter("Nina", 22);
         Employee recruiter4 = new Recruiter("Natalia", 21);
         Employee recruiter5 = new Recruiter("Andriana", 23);
@@ -33,6 +33,10 @@ public class Main {
         personHashSet.add(recruiter3);
         personHashSet.add(recruiter4);
         personHashSet.add(recruiter5);
+
+        System.out.println(recruiter1.equals(recruiter1));
+        System.out.println(recruiter1.equals(recruiter2));
+        System.out.println(recruiter2.equals(recruiter1));
 
         /*
         LinkedHashSet
@@ -55,17 +59,17 @@ public class Main {
          */
         var personTreeSet = new TreeSet<>();
 
-        personTreeSet.add(developer1);
-        personTreeSet.add(developer2);
-        personTreeSet.add(developer3);
-        personTreeSet.add(developer4);
-        personTreeSet.add(developer5);
+//        personTreeSet.add(developer1);
+//        personTreeSet.add(developer2);
+//        personTreeSet.add(developer3);
+//        personTreeSet.add(developer4);
+//        personTreeSet.add(developer5);
 
-//        personTreeSet.add(recruiter1);
-//        personTreeSet.add(recruiter2);
-//        personTreeSet.add(recruiter3);
-//        personTreeSet.add(recruiter4);
-//        personTreeSet.add(recruiter5);
+        personTreeSet.add(recruiter1);
+        personTreeSet.add(recruiter2);
+        personTreeSet.add(recruiter3);
+        personTreeSet.add(recruiter4);
+        personTreeSet.add(recruiter5);
 
 
         System.out.println("HashSet");

@@ -28,6 +28,7 @@ public class Developer implements Employee, Comparable<Developer> {
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
+        if (!(o instanceof Developer)) return false;
         if (o == null || getClass() != o.getClass()) return false;
         Developer developer = (Developer) o;
         return age == developer.age &&
