@@ -1,5 +1,7 @@
 package homeWork15;
 
+import java.util.Objects;
+
 public class Recruiter extends Employee {
 
     private String workWith;
@@ -23,12 +25,16 @@ public class Recruiter extends Employee {
 
     @Override
     public boolean equals(Object o) {
-        return super.equals(o);
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        if (!super.equals(o)) return false;
+        Recruiter recruiter = (Recruiter) o;
+        return Objects.equals(workWith, recruiter.workWith);
     }
 
     @Override
     public int hashCode() {
-        return super.hashCode();
+        return Objects.hash(super.hashCode(), workWith);
     }
 
     @Override

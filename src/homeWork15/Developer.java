@@ -1,5 +1,7 @@
 package homeWork15;
 
+import java.util.Objects;
+
 public class Developer extends Employee {
 
     private String programing;
@@ -22,12 +24,16 @@ public class Developer extends Employee {
 
     @Override
     public boolean equals(Object o) {
-        return super.equals(o);
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        if (!super.equals(o)) return false;
+        Developer developer = (Developer) o;
+        return Objects.equals(programing, developer.programing);
     }
 
     @Override
     public int hashCode() {
-        return super.hashCode();
+        return Objects.hash(super.hashCode(), programing);
     }
 
     @Override
